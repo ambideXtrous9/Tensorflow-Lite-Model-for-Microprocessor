@@ -2,10 +2,9 @@
 
 
 1. Download the tar file : ```libtensorflow-cpu-linux-x86_64-2.15.0.tar.gz```
-2. 
-```
-sudo tar -C /usr/local -xzf libtensorflow-cpu-linux-x86_64-2.15.0.tar.gz
-```
+
+2. ```sudo tar -C /usr/local -xzf libtensorflow-cpu-linux-x86_64-2.15.0.tar.gz```
+
 3. ```sudo ldconfig /usr/local/lib```
 
 4. ``` gcc hello_tf.c -ltensorflow -o hello_tf```
