@@ -11,9 +11,11 @@
 
 5. ```./hello_tf```
 
+## Tensorflow Lite Build : 
+
+1. [Build TensorFlow Lite with CMake](https://www.tensorflow.org/lite/guide/build_cmake)
 
 ### Reference Links :
 
 1. [Tensorflow Lite C++](https://stackoverflow.com/questions/70138115/how-to-get-tflite-model-output-in-c)
 
-2. [Build TensorFlow Lite with CMake](https://www.tensorflow.org/lite/guide/build_cmake)
