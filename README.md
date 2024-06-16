@@ -11,6 +11,10 @@
 
 5. ```./hello_tf```
 
+## Convert tflite model to .h file
+
+1. ```xxd -i QATModel.tflite > QATModel.h```
+
 ## Tensorflow Lite Build : 
 
 1. [Build TensorFlow Lite with CMake](https://www.tensorflow.org/lite/guide/build_cmake)
