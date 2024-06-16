@@ -23,3 +23,5 @@
 
 1. [Tensorflow Lite C++](https://stackoverflow.com/questions/70138115/how-to-get-tflite-model-output-in-c)
 
+2. [Getting Started with TensorFlow Lite for Microcontrollers](https://www.youtube.com/watch?v=gDFWCxrJruQ&t=188s)
+
